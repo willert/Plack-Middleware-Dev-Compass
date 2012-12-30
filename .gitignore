@@ -14,8 +14,8 @@ Makefile*
 /*.org/
 /.build/
 
-/Exparse-Interpreter-*.tar.gz
-/Exparse-Interpreter-*/
+/*-*.tar.gz
+/*-*/
 
 *#*
 *_flymake.*
